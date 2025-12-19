@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Major+Mono+Display&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Kaushan+Script&family=Major+Mono+Display&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+        
+
+        /* 
+        
+        #   = id
+        .   = class
+        :   = pseudo-class
+        ::  = pseudo-element
+        >   = clildren
+        
+        */
+
+@font-face {
+    
+    font-family: 'Maximum Voltage';
+    src: url(maximum_voltage/Maximum\ Voltage.otf) format('opentype'),url(maximum_voltage/Maximum\ Voltage.ttf)
+    format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sans seriffic'; src:   url(sanseriffic/Sanseriffic.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Times Sans Serif'; src:   url(times_sans_serif/TIMESS__.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+
+    font: normal 16px 'sans seriffic',sans-serif;
+    text-align: left;
+    background-image:linear-gradient(to top,#1B0589 1%, #060B29) ;
+    background-attachment: fixed;
+    color: #F7DB0A;
+    
+}
+
+header{
+font: bold 15px 'maximum voltage';    
+text-align: start;
+background-image: linear-gradient(to right ,  #060B29 60%,  #0D208B);
+background-attachment: fixed;
+padding: 10px ; 
+margin: 10px;
+color: #F7DB0A;
+}
+
+main{
+   
+background-color: aliceblue;
+text-align: justify;
+font: normal 16px  'Times Sans Serif' ,'sans seriffic', 'Julius Sans One', sans-serif;
+color: #060B29;    
+padding: 10px; 
+margin: 10px;
+border-radius: 20px 20px 15px 15px;
+box-shadow: 2px 2px 4px 1px #87ceeb;
+}
+
+h1{
+
+padding: 10px 10px 5px 10px;
+margin: 10px 10px 0px 10px ;
+}
+
+
+
+article{
+    background-color: rgba(135, 207, 235, 0.257);
+    padding: 10px;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 4px 1px #060B29;
+    
+ }
+
+ article > aside {
+
+    background-color: rgba(135, 207, 235, 0.702);
+    border-radius: 5px;
+    
+ }
+
+nav{
+background-image: linear-gradient(to right, #060b29bf, #04202B 80%,#0D208B);
+background-attachment: fixed;
+padding: 10px;
+margin: 10px;
+border-radius: 10px;
+text-align: center;
+ box-shadow: 2px 2px 4px 1px #060b29bf  ;
+}
+
+nav > a{
+    color: #87ceeb;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 8px;
+    margin: 8px;
+   
+}
+
+#assuntos{
+
+    font: bold 20px 'sans seriffic', sans-serif;
+    text-align: left;
+    color: #060B29;
+    padding: 10px 10px 10px 10px;
+}
+
+
+footer{
+
+    background-image: linear-gradient(to right, #060B29 40%,  #0D208B   );
+    background-attachment: fixed;
+    color: aliceblue;
+    padding: 4px;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+footer > p {
+    border-image: url(imagens/borda.png);
+   margin: 0px;
+   }
+
+   h3{
+    
+    font:  normal 12px 'maximum voltage'  ;
+    color: aliceblue;
+    padding: 0px 10px 10px 10px ;
+    margin: 0px 10px 10px 10px;
+    text-align: start;
+   }

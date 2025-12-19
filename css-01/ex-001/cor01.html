@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="imagem-favicon/favicon.ico">
+    <title>Cor 1 - Fundamentos de Cores - CSS</title>
+    <style>
+        *{ /* Configurações globais das CSS */
+            height: 100%;
+
+        }
+
+        body {
+            background-image: radial-gradient(#060B29,#3B3E50);
+            background-attachment: fixed;
+        }
+
+        h1, h2, p, ul {
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+
+    <h1> Oquê você irá aprender ?</h1>
+    <p><i>Você irá aprender sobre as diferentes formas de representar cores no CSS.</i></p>
+
+    <ul style="list-style-type: disc;">
+        <li>Representação por nomes</li>
+        <li>Representação por códigos hexadecimais</li>
+        <li>Representação por códigos RGB</li>
+        <li>Representação por códigos HSL</li>
+    </ul>
+
+    <!--Representação por nomes-->
+    <h2>Exemplo de Cores</h2>
+    <p>Você pode representar as cores por nomes, como <code>blue</code> e <code>white</code>.</p>
+
+<!--Representação por códigos Hexadecimais-->
+<!--Decimal: 0 1 2 3 4 5 6 7 8 9-->
+<!--Hexadecimal: 0 1 2 3 4 5 6 7 8 9 A B C D E F-->
+ <h2 >Exemplo de cores</h2>
+ <p>Você pode usar a notação hexadecimal para definir cores. Por exemplo:</p>
+ <pre><code>h1 {
+    color: #ff0000;
+}</code></pre>
+
+<!--Representação por códigos RGB-->
+<h2 >Exemplo de Cores</h2>
+<p>Você pode usar a notação RGB para definir cores. Por exemplo:</p>
+<pre><code>h1 {
+    color: rgb(255,0,0);
+}</code></pre>
+
+<!--Representação por códigos HSL-->
+<h2 >Exemplo de cores</h2>
+<p>Você pode fazer representação através de hsl. Por exemplo:</p>
+<pre><code>h1 {
+    color: hsl(0, 100%, 50%);
+}</code></pre>
+
+<!--Dica de cor no Visual Studio-->
+<h2 style="background-color: green;color: white;">Exemplo de cores</h2>
+<p>Você pode escrever o nome da cor e o Visual Studio quando você passar o mouse sobre o nome da cor, ele irá mostrar a representação em código.</p>
+
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="cor02.html">Cor 02 - Fundamentos de Cores - CSS</a></li>
+    <li><a href="cor03.html">Cor 03 - Fundamentos de Cores - CSS</a></li>
+</ul>
+</body>
+</html>
