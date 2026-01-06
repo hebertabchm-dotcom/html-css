@@ -3,9 +3,9 @@
 Repositório dedicado aos **exercícios práticos do curso de HTML5 e CSS3** do **Curso em Vídeo**.
 
 Este material faz parte da minha base de estudos em **Front-end**, com foco em:
-- Estruturação correta com **HTML semântico**
+- Estruturação com **HTML semântico**
 - Estilização e layout com **CSS**
-- Organização e evolução progressiva dos exercícios
+- Organização progressiva dos exercícios
 - Publicação dos projetos via **GitHub Pages**
 
 ---
@@ -13,6 +13,8 @@ Este material faz parte da minha base de estudos em **Front-end**, com foco em:
 ## 🚀 Exercícios disponíveis
 
 > Clique em qualquer exercício para visualizar no navegador.
+
+---
 
 ### 📂 Módulo HTML-01
 - 🔹 [Exercício 001](https://hebertabchm-dotcom.github.io/html-css/html-01/ex-001/)
@@ -36,6 +38,22 @@ Este material faz parte da minha base de estudos em **Front-end**, com foco em:
 
 ---
 
+### 🎨 Módulo CSS-01
+- 🔹 [Exercício 001](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-001/)
+- 🔹 [Exercício 002](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-002/)
+- 🔹 [Exercício 003](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-003/)
+- 🔹 [Exercício 004](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-004/)
+- 🔹 [Exercício 005](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-005/)
+- 🔹 [Exercício 006](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-006/)
+- 🔹 [Exercício 007](https://hebertabchm-dotcom.github.io/html-css/css-01/ex-007/)
+
+---
+
+### 🧪 Desafios
+- ⭐ [Desafio 10](https://hebertabchm-dotcom.github.io/html-css/css-01/desafio-10/)
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
@@ -43,6 +61,6 @@ Este material faz parte da minha base de estudos em **Front-end**, com foco em:
 ---
 
 ## 📌 Observações
-Este repositório representa minha **evolução prática em Front-end**, com exercícios organizados de forma progressiva e acessível para consulta e demonstração.
+Este repositório representa minha **evolução prática em Front-end**, com exercícios organizados por módulo, seguindo uma progressão clara de aprendizado.
 
 📚 Curso: **Curso em Vídeo — HTML5 e CSS3**
