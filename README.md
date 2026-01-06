@@ -1,6 +1,49 @@
-# html-css
-Curso de HTML E CSS do CursoemVideo
+# 📘 HTML & CSS — Curso em Vídeo
 
-Estou aprendendo a criar sites e agora vou gerencias meus repositórios!
+Repositório dedicado aos **exercícios práticos do curso de HTML5 e CSS3** do **Curso em Vídeo**.
 
-<a href="https://hebertabchm-dotcom.github.io/html-css/html-01/ex-001/"> Executar o exercício 001</a>
+O objetivo deste repositório é:
+- Consolidar fundamentos de **HTML semântico**
+- Praticar **CSS básico e responsividade**
+- Organizar a evolução dos estudos de forma clara e acessível
+- Disponibilizar os exercícios via **GitHub Pages**
+
+---
+
+## 🚀 Exercícios disponíveis
+
+> Clique em qualquer exercício para visualizar no navegador.
+
+- 🔹 [Exercício 001](https://hebertabchm-dotcom.github.io/html-css/ex-001/)
+- 🔹 [Exercício 002](https://hebertabchm-dotcom.github.io/html-css/ex-002/)
+- 🔹 [Exercício 003](https://hebertabchm-dotcom.github.io/html-css/ex-003/)
+- 🔹 [Exercício 004](https://hebertabchm-dotcom.github.io/html-css/ex-004/)
+- 🔹 [Exercício 005](https://hebertabchm-dotcom.github.io/html-css/ex-005/)
+- 🔹 [Exercício 006](https://hebertabchm-dotcom.github.io/html-css/ex-006/)
+- 🔹 [Exercício 007](https://hebertabchm-dotcom.github.io/html-css/ex-007/)
+- 🔹 [Exercício 008](https://hebertabchm-dotcom.github.io/html-css/ex-008/)
+- 🔹 [Exercício 009](https://hebertabchm-dotcom.github.io/html-css/ex-009/)
+- 🔹 [Exercício 010](https://hebertabchm-dotcom.github.io/html-css/ex-010/)
+- 🔹 [Exercício 011](https://hebertabchm-dotcom.github.io/html-css/ex-011/)
+- 🔹 [Exercício 011.2](https://hebertabchm-dotcom.github.io/html-css/ex-011.2/)
+- 🔹 [Exercício 012](https://hebertabchm-dotcom.github.io/html-css/ex-012/)
+- 🔹 [Exercício 013](https://hebertabchm-dotcom.github.io/html-css/ex-0013/)
+- 🔹 [Exercício 013.2](https://hebertabchm-dotcom.github.io/html-css/ex-0013.2/)
+- 🔹 [Exercício 013.3](https://hebertabchm-dotcom.github.io/html-css/ex-0013.3/)
+- 🔹 [Exercício 014](https://hebertabchm-dotcom.github.io/html-css/ex-0014/)
+- 🔹 [Exercício 015](https://hebertabchm-dotcom.github.io/html-css/ex-0015/)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
+
+---
+
+## 📌 Observações
+Este repositório faz parte da minha **base de estudos em Front-end** e será constantemente atualizado conforme avanço no aprendizado.
+
+---
+
+📚 Curso: **Curso em Vídeo — HTML5 e CSS3**
